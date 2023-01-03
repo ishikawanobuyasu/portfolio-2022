@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(244, 244, 244);
+  }
+
+  /* ===== COMMON PARTS BEGIN ===== */
+.text-dark {
+    color: #101841;
+  }
+  .text-light {
+    color: #fefefe;
+  }
+  .text-1 {
+    color: #e8aaa3;
+  }
+  .text-2 {
+    color: #aeac78;
+  }
+  .text-3 {
+    color: #f3deb9;
+  }
+  .bg-1 {
+    background-color: #e8aaa3;
+  }
+  .bg-2 {
+    background-color: #aeac78;
+  }
+  .bg-3 {
+    background-color: #f3deb9;
+  }
+  /* ===== COMMON PARTS END ===== */
+
+
+  footer {
+    height: 100px;
+    background-color: rgb(247, 249, 144);
+  }
+  
+  .self{
+    color:rgb(255, 255, 255) ;
+    height: 40px;
+    background-color: rgb(54, 55, 131);
+  }
+  
+  .skill {
+    color:rgb(255, 255, 255) ;
+    height: 40px;
+    background-color: rgb(54, 55, 131);
+  }
+  
+  .portforio {
+    color:rgb(255, 255, 255) ;
+    height: 40px;
+    background-color: rgb(54, 55, 131);
+  }
+
+  .links {
+    color:rgb(255, 255, 255) ;
+    height: 40px;
+    background-color: rgb(54, 55, 131);
+  }
